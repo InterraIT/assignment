@@ -1,0 +1,22 @@
+<div class="container">
+  <div class="page-header center">
+    <div class="hs-page-title">
+      <img src="/assets/icons/ingular-image.png" alt="" class="img-rounded">
+      <h4>Contacts App</h4>
+    </div>
+  </div>
+
+  <div class="row" style="text-align: center;">
+    <div class="col col-lg-12">
+
+    </div>
+  </div>
+  <app-user-list></app-user-list>
+  <router-outlet></router-outlet>
+</div>
+<div class="toastr-container">
+  <ng-container *ngIf="toastrData?.text?.length > 0">
+    <app-custom-toastr [@toastrAnimation] [toastrData]="toastrData"
+      (closeAction)="closeAction($event)"></app-custom-toastr>
+  </ng-container>
+</div>

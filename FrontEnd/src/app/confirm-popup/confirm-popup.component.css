@@ -1,0 +1,32 @@
+.custom-header {
+    background-color: #229bff;
+    border-bottom: 0px solid #e3e6f0;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: 20px 20px 19px 20px;
+    position: relative;
+}
+
+.hs-popup-title {
+    display: flex;
+    flex-flow: row;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+
+img {
+    border-style: none;
+    height: auto;
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+.custom-header h4 {
+    padding-left: 10px;
+    max-width: calc(100% - 20px);
+}
+
+.hs-content-padding {
+    padding: 0 15px;
+}
