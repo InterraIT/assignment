@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfContact xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Contact>
+    <Id>1</Id>
+    <FirstName>Pulak</FirstName>
+    <LastName>Purkait</LastName>
+    <Email>Pulak@email.com</Email>
+  </Contact>
+  <Contact>
+    <Id>2</Id>
+    <FirstName>Amit</FirstName>
+    <LastName>Ghosh</LastName>
+    <Email>amit@email.com</Email>
+  </Contact>
+  <Contact>
+    <Id>3</Id>
+    <FirstName>Chandan</FirstName>
+    <LastName>Ray</LastName>
+    <Email>chandan@email.com</Email>
+  </Contact>
+  <Contact>
+    <Id>6</Id>
+    <FirstName>Pratul</FirstName>
+    <LastName>Roy</LastName>
+    <Email>pratul@email.com</Email>
+  </Contact>
+  <Contact>
+    <Id>8</Id>
+    <FirstName>Nick1</FirstName>
+    <LastName>Sipper1</LastName>
+    <Email>nick1@email.com</Email>
+  </Contact>
+  <Contact>
+    <Id>9</Id>
+    <FirstName>Rafik</FirstName>
+    <LastName>Mondal</LastName>
+    <Email>rafik@email.com</Email>
+  </Contact>
+</ArrayOfContact>

@@ -1,0 +1,67 @@
+D:\Amit\TestApp\ContactAppAPI\ContactAppAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Amit\TestApp\ContactAppAPI\ContactAppAPI\bin\Debug\net6.0\appsettings.json
+D:\Amit\TestApp\ContactAppAPI\ContactAppAPI\bin\Debug\net6.0\ContactAppAPI.exe
+D:\Amit\TestApp\ContactAppAPI\ContactAppAPI\bin\Debug\net6.0\ContactAppAPI.deps.json
+D:\Amit\TestApp\ContactAppAPI\ContactAppAPI\bin\Debug\net6.0\ContactAppAPI.runtimeconfig.json
+D:\Amit\TestApp\ContactAppAPI\ContactAppAPI\bin\Debug\net6.0\ContactAppAPI.dll
+D:\Amit\TestApp\ContactAppAPI\ContactAppAPI\bin\Debug\net6.0\ref\ContactAppAPI.dll
+D:\Amit\TestApp\ContactAppAPI\ContactAppAPI\bin\Debug\net6.0\ContactAppAPI.pdb
+D:\Amit\TestApp\ContactAppAPI\ContactAppAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Amit\TestApp\ContactAppAPI\ContactAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Amit\TestApp\ContactAppAPI\ContactAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Amit\TestApp\ContactAppAPI\ContactAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Amit\TestApp\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\ContactAppAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amit\TestApp\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\ContactAppAPI.AssemblyInfoInputs.cache
+D:\Amit\TestApp\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\ContactAppAPI.AssemblyInfo.cs
+D:\Amit\TestApp\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\ContactAppAPI.csproj.CoreCompileInputs.cache
+D:\Amit\TestApp\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\ContactAppAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Amit\TestApp\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\ContactAppAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Amit\TestApp\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Amit\TestApp\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Amit\TestApp\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\scopedcss\bundle\ContactAppAPI.styles.css
+D:\Amit\TestApp\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\ContactAppAPI.csproj.CopyComplete
+D:\Amit\TestApp\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\ContactAppAPI.dll
+D:\Amit\TestApp\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\ref\ContactAppAPI.dll
+D:\Amit\TestApp\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\ContactAppAPI.pdb
+D:\Amit\TestApp\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\ContactAppAPI.genruntimeconfig.cache
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\bin\Debug\net6.0\appsettings.json
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\bin\Debug\net6.0\ContactAppAPI.exe
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\bin\Debug\net6.0\ContactAppAPI.deps.json
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\bin\Debug\net6.0\ContactAppAPI.runtimeconfig.json
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\bin\Debug\net6.0\ContactAppAPI.dll
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\bin\Debug\net6.0\ContactAppAPI.pdb
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\ContactAppAPI.csproj.AssemblyReference.cache
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\ContactAppAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\ContactAppAPI.AssemblyInfoInputs.cache
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\ContactAppAPI.AssemblyInfo.cs
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\ContactAppAPI.csproj.CoreCompileInputs.cache
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\ContactAppAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\ContactAppAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.ContactAppAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ContactAppAPI.props
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ContactAppAPI.props
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ContactAppAPI.props
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\scopedcss\bundle\ContactAppAPI.styles.css
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\ContactAppAPI.csproj.CopyComplete
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\ContactAppAPI.dll
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\refint\ContactAppAPI.dll
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\ContactAppAPI.pdb
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\ContactAppAPI.genruntimeconfig.cache
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\ref\ContactAppAPI.dll
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\bin\Debug\net6.0\System.Web.Http.dll
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Pulak Purkait\PROJECT\POC\ContactAppAPI\ContactAppAPI\ContactAppAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Amit\TestApp\ContactAppAPI\ContactAppAPI\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\Amit\TestApp\ContactAppAPI\ContactAppAPI\bin\Debug\net6.0\System.Web.Http.dll
+D:\Amit\TestApp\ContactAppAPI\ContactAppAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Amit\TestApp\ContactAppAPI\ContactAppAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Amit\TestApp\ContactAppAPI\ContactAppAPI\obj\Debug\net6.0\ContactAppAPI.csproj.AssemblyReference.cache
